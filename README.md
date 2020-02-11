@@ -1,0 +1,1 @@
+This project we will be deconstructing an existing web page and then rebuilding it.
