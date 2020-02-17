@@ -1,0 +1,112 @@
+#vertCenter {
+    margin-top: 150px;
+}
+#logo {
+    height: 120px;
+}
+
+#googleLogo {
+    display: block;
+    margin: 0 auto;
+}
+#googleSearch {
+    display: block;
+    margin: 0 auto;
+    
+    background-image: url("pictures/search.png");
+    background-repeat: no-repeat;
+    background-position: 15px 12px;
+    background-color: #fff;
+    border: 1px solid rgb(223, 225, 229);
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    width: 482px;
+    padding-left: 55px;
+    font-size: 16px;
+}
+
+#buttons {
+    text-align: center;
+}
+#button1, #button2 {
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+}
+
+#navBar {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 16px;
+}
+
+#About, #Store, #Gmail, #Images {
+    display: inline-block;
+    font-size: 12px;
+    opacity: 0.75;
+    color: #000;
+}
+#About {
+    padding-left: 18px;
+}
+#Store {
+    padding-left: 18px;
+}
+
+#Images {
+    float: right;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+#Gmail {
+    float: right;
+}
+
+#footerBar {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background: #f2f2f2;
+    line-height: 40px;
+}
+#Advertising, #Business, #HowSearchWorks, #Privacy, #Terms, #Settings {
+    display: inline-block;
+    color: #5f6368;
+    font-size: 13px;
+}
+#Advertising {
+    padding-left: 30px;
+}
+#Business {
+    padding-left: 18px;
+}
+#HowSearchWorks {
+    padding-left: 18px;
+}
+
+#Settings {
+    float: right;
+    padding-left: 18px;
+    padding-right: 30px;
+}
+
+#Terms {
+    float: right;
+    padding-left: 18px;
+}
+
+#Privacy {
+    float:right;
+}
+
+
+
